@@ -47,3 +47,16 @@
     right: 0;
     margin: auto;
 }
+
+.timerDiv {
+    border: 0px solid;
+    background-color: none;
+    width: 200px;
+    display: block;
+    position: relative;
+    font-family: verdana, sans-serif;
+    top: 200px;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
