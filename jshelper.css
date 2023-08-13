@@ -1,0 +1,49 @@
+.wrapper {
+    background-color: none;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0; 
+    margin: auto;
+}
+
+
+.mainDiv {
+    border: 0px dashed;
+    background-color: none;
+    width: 90%;
+    height: 100%;
+    display: block;
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.instDiv {
+    border: 0px dashed;
+    background-color: none;
+    width: 90%;
+    display: block;
+    position: relative;
+    top: 10%;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.progBaseDiv {
+    border: 0px solid;
+    background-color: #aaaaaa;
+    height: 15px;
+    width: 400px;
+    visibility: hidden;
+    position: absolute;
+    top: 20px;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
